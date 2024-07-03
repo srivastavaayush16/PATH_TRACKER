@@ -1,0 +1,11 @@
+.temp{
+    margin:auto;
+    width:600px;
+    height:100px;
+    background-color:#CE9199;
+    color: white;
+    box-shadow: 1px 2px 9px #f4aab9;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
